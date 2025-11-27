@@ -1,0 +1,1 @@
+# 1D_Heat_equation_PINN
