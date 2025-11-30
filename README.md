@@ -98,8 +98,14 @@ purely data-driven models.
 ## Repository Structure
 
 - 1D_heat_equation_PINN.ipynb # Main experiment (PINN + inverse problem)
-- quadratic_PINN.ipynb # Introductory PINN example
-- utils.py 
-- plots/ # Generated figures 
 - README.md
+- quadratic_PINN.ipynb # Introductory PINN example
+
+---
+
+## How to run
+download notebook: 1D_heat-equation_PINN.ipynb 
+Then run all cells.
+Plots, diagnostics, and learned parameters will be generated automatically.
+
 
